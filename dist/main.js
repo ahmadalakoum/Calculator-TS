@@ -14,3 +14,6 @@ function calculate() {
         resultInput.value = 'error';
     }
 }
+function test(){
+    console.log("hello world");
+}
